@@ -8,7 +8,7 @@
 ## Pre-requisition
 - `pdftk`
 - poppler, specifically `pdfunite` binary
-- python, with packages installed with `pip install -r requirements.txt`
+- python 3.6+, with packages installed with `pip install -r requirements.txt`
 
 ## Usage
 ```
