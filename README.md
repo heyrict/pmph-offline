@@ -1,6 +1,8 @@
 # Pmph Download
 该脚本用于新型冠状病毒防疫期间下载人卫教材电子版 pdf 使用。
 
+详见：https://www.pmph.com/main/about?articleId=21150
+
 **下载所得 pdf 版权归人民卫生出版社所有。代码基于 MIT 协议开源。**
 
 ## Pre-requisition
